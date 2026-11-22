@@ -39,7 +39,7 @@ The dashboard explores:
 To use data visualisation and analysis to understand customer behaviour, identify churn patterns and support data-driven customer retention strategies.
 
 ## Files Included
-- Customer_Churn_Analysis.pbix – Interactive Power BI dashboard
-- Customer-Churn-Records.csv – Dataset
-- Dashboard.pdf – Exported dashboard
-- Dashboard_Screenshot.png – Dashboard preview
+- BankCustomerChurnAnalysis.pbix –Interactive Power BI dashboard
+- Customer-Churn-Records Dataset.csv – Dataset
+- BankCustomerChurnAnalysis.pdf – Exported dashboard
+- AnalysisDashboard.png – Dashboard preview
